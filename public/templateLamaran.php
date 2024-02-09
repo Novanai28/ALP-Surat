@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $table->addRow();
     $table->addCell(2000)->addText('Provinsi');
     $table->addCell(5000)->addText($propinsi);
-    $section->addText("Dengan ini saya bermaksud mengajukan lamaran pekerjaan pada perusahaan yang Bapak/Ibu pimpin untuk posisi $posisi. Saya mengetahui informasi lowongan pekerjaan tersebut melalui $perusahaan dan merasa tertarik untuk bergabung dengan perusahaan yang Bapak/Ibu pimpin.");
+    $section->addText(" bermaksud mengajukan lamaran pekerjaan pada perusahaan yang Bapak/Ibu pimpin untuk posisi $posisi. Saya mengetahui informasi lowongan pekerjaan tersebut melalui $perusahaan dan merasa tertarik untuk bergabung dengan perusahaan yang Bapak/Ibu pimpin.");
     $section->addText("Saya memiliki pengalaman kerja selama beberapa tahun di bidang yang sama, sehingga saya yakin dapat memberikan kontribusi yang positif bagi perusahaan. Saya juga memiliki kemampuan dalam hal $posisi dan kompetensi lain yang relevan dengan pekerjaan tersebut.");
     $section->addText('Berikut adalah lampiran yang saya sertakan dalam lamaran ini:');
     $section->addListItem('Curriculum Vitae', 0);

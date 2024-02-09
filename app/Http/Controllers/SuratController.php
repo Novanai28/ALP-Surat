@@ -165,7 +165,7 @@ class SuratController extends Controller
         $template->setValue('isiDesa', $desa);
         $template->setValue('isiKecamatan', $kecamatan);
         $template->setValue('isiKabupaten', $kabupaten);
-        $template->setValue('isiJenisIdentitas', $jenisIdentitas);
+
         $template->setValue('isiNomorIdentitas', $nomorIdentitas);
         $template->setValue('isiJabatan', $jabatan);
         $template->setValue('isiMulaiIzin', $mulaiIzin);

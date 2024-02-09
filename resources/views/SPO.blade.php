@@ -19,7 +19,7 @@
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="ktp">Tempat Buat Surat</label>
                         <input type="text" class="form-control  border rounded" id="isiTempatBuatSurat" name="isiTempatBuatSurat"
-                            placeholder="Contoh: Bener Meriah" required />
+                            placeholder="Contoh: Surabaya" required />
                     </div>
                     <br>
                     <h3 class="font-bold mt-16">KETERANGAN GAJI</h3>
@@ -33,7 +33,7 @@
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="ktp">Nama Kepala Desa</label>
                         <input type="text" class="form-control  border rounded" id="isiKepalaDesa" name="isiKepalaDesa"
-                            placeholder="Contoh: Edy Fitra" required />
+                            placeholder="Contoh: Wiryanto" required />
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="tempatLahir">Nama Lengkap</label>
                         <input type="text" class="form-control  border rounded" id="isiNamaOrtu" name="isiNamaOrtu"
-                            placeholder="Joko Andoko" required />
+                            placeholder="Djoko" required />
                     </div>
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="tempatLahir">Jenis Kelamin</label>
@@ -81,7 +81,7 @@
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="tempatLahir">Pekerjaan</label>
                         <input type="text" class="form-control  border rounded" id="isiPekerjaanOrtu" name="isiPekerjaanOrtu"
-                            placeholder="Camat" required />
+                            placeholder="Staff" required />
                     </div>
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="alamatOrtu">Alamat Lengkap</label>
@@ -95,7 +95,7 @@
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="tempatLahir">Nama Lengkap</label>
                         <input type="text" class="form-control  border rounded" id="isiNamaAnak" name="isiNamaAnak"
-                            placeholder="Joko Andoko" required />
+                            placeholder="Wibowo" required />
                     </div>
                     <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                         <label for="tempatLahir">Jenis Kelamin</label>
@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-    </div> 
+    </div>
  </form>
     </div>
 </div>

@@ -81,7 +81,7 @@
         <div class="signature">
             <p>Hormat Saya,</p>
             <h3>{nama}</h3>
-            <p>No.KTP: {KTP}</p>
+            <p></p>
         </div>
 
         <div class="date">
@@ -91,8 +91,7 @@
         </div>
 
         <p class="text-right">Tembusan:</p>
-        <p class="text-right">1. Direktur Utama</p>
-        <p class="text-right">2. Kepala Departemen Sumber Daya Manusia</p>
+        <p class="text-right">1. Kepala Departemen Sumber Daya Manusia</p>
     </div>
 </body>
 

@@ -25,7 +25,7 @@
             <div class="mb-4 border shadow rounded-lg">
                 <label for="isiStatus" class="block">Status</label>
                 <input type="text" class="form-input" id="isiStatus" name="isiStatus"
-                    placeholder="Kawin/Belum Kawin" required />
+                    placeholder="Menikah/Belum Menikah" required />
             </div>
             <div class="mb-4 border shadow rounded-lg">
                 <label for="isiKelamin" class="block">Jenis Kelamin <span class="text-red-500">*</span></label>
@@ -35,11 +35,11 @@
                     <option value="Perempuan">Perempuan</option>
                 </select>
             </div>
-        
+
             <div class="mb-4 border shadow rounded-lg">
                 <label for="isiNegara" class="block">Kewarganegaraan <span class="text-red-500">*</span></label>
                 <select class="form-select" name="isiNegara" required>
-                    <option value="Afghanistan">Afghanistan</option>
+                    <option value="Afghanistan">Indonesia</option>
                     <option value="Afghanistan">Afghanistan</option>
                     <option value="Åland Islands">Åland Islands</option>
                     <option value="Albania">Albania</option>
@@ -307,14 +307,14 @@
 
             <div class="mb-4 border shadow rounded-lg">
                 <label for="nama">No. Telepon</label>
-                <input type="text" class="form-control" id="isiNoHp" name="isiNoHp" placeholder="0822 xxx xxx"
+                <input type="text" class="form-control" id="isiNoHp" name="isiNoHp" placeholder="0812 xxx xxx"
                     required />
             </div>
 
             <div class="mb-4 border shadow rounded-lg">
                 <label for="nama">Email</label>
                 <input type="text" class="form-control" id="isiEmail" name="isiEmail"
-                    placeholder="maele123@gmail.com" required />
+                    placeholder="Luwis@gmail.com" required />
             </div>
             <div class="mb-4 border shadow rounded-lg">
                 <label for="pendidikan">Pendidikan</label>
@@ -339,6 +339,6 @@
          </div>
     </form>
     </div>
-    
+
 </div>
 

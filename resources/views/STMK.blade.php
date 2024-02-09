@@ -21,12 +21,12 @@
                 <div class="form-group mt-8 rounded-sm drop-shadow-lg">
                     <label for="desa">Kecamatan </label>
                     <input type="text" class="form-control" id="isiKecamatan" name="isiKecamatan"
-                        placeholder="Darussalam" required />
+                        placeholder="Pabean Cantian" required />
                 </div>
                 <div class="form-group mt-8 rounded-sm drop-shadow-lg">
-                    <label for="desa">Kabupaten </label>
+                    <label for="desa">Kabupaten/Kota </label>
                     <input type="text" class="form-control" id="isiKabupaten" name="isiKabupaten"
-                        placeholder="Aceh Besar" required />
+                        placeholder="Surabaya" required />
                 </div>
 
                 <div class="form-group mt-8 rounded-sm drop-shadow-lg">

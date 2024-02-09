@@ -17,7 +17,7 @@
                     <div class="col-md-6 form-group">
                         <label for="name">Tempat Lahir <span class="text-danger">*<span></span></span></label>
                         <input type="text" class="form-control" name="tplahir" value=""
-                            placeholder="Contoh : Bener Meriah" required="">
+                            placeholder="Contoh : Surabaya" required="">
                     </div>
                     <div class="col-md-6 form-group">
                         <label for="">Tanggal Lahir <span class="text-danger">*<span></span></span></label>
@@ -35,17 +35,17 @@
                     <div class="col-md-6 form-group">
                         <label for="">Agama </label>
                         <input type="text" class="form-control" name="agama" value=""
-                            placeholder="Contoh : Islam">
+                            placeholder="Contoh : Kristen">
                     </div>
                     <div class="col-md-6 form-group">
                         <label for="">Kota / Kabupaten <span class="text-danger">*<span></span></span></label>
                         <input type="text" class="form-control" name="kabupaten" value=""
-                            placeholder="Contoh : Bener Meriah" required="">
+                            placeholder="Contoh : Surabaya" required="">
                     </div>
                     <div class="col-md-6 form-group">
                         <label for="">Provinsi <span class="text-danger">*<span></span></span></label>
                         <input type="text" class="form-control" name="provinsi" value=""
-                            placeholder="Contoh : Aceh" required="">
+                            placeholder="Contoh : jawa Timur" required="">
                     </div>
                 </div>
                 <div class="row pt-2">
@@ -65,7 +65,7 @@
                         <div class="col-md-6 form-group">
                             <label for="">No Handphone <span class="text-danger">*<span></span></span></label>
                             <input type="text" class="form-control" name="nohp" value=""
-                                placeholder="Contoh : 0822xxxxxxxxxx" required="">
+                                placeholder="Contoh : 0812xxxxxxxxxx" required="">
                         </div>
                     </div>
                 </div>
@@ -79,12 +79,12 @@
             <div class="form-group">
                 <label for="name">Nama Perusahaan <span class="text-danger">*<span></span></span></label>
                 <input type="text" class="form-control" name="perusahaan" id="namaPerusahaan"
-                    placeholder="Contoh : PT. Shopee">
+                    placeholder="Contoh : Ciputra Group">
 
                 <div class="col-md-6  form-group">
                     <label for="">Posisi / Jabatan <span class="text-danger">*<span></span></span></label>
                     <input type="text" class="form-control" name="posisi" value=""
-                        placeholder="Contoh : Arsitek Engineer / Software Engineer / Programmer" required="">
+                        placeholder="Contoh : ICT Support / Software Engineer / Programmer" required="">
                 </div>
                 <div class="col-md-6 form-group">
                     <label for="">Tanggal Pengajuan Lamaran <span

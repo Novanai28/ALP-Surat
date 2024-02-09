@@ -11,7 +11,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tempatsuratdibuat">Tempat Surat Dibuat</label>
                     <input type="text" class="form-control border rounded" id="isiTempatBuatSurat" name="isiTempatBuatSurat"
-                        placeholder="Banda Aceh" required />
+                        placeholder="Surabaya" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tanggalsuratdibuat">Tanggal Surat Dibuat</label>
@@ -24,13 +24,13 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="nama">Nama Lengkap</label>
                     <input type="text" class="form-control border rounded" id="isiNamaPemberi" name="isiNamaPemberi"
-                        placeholder="Siuman Tringgadeng" required />
+                        placeholder="Luwis Wiryanto" required />
                 </div>
 
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="desa">Tempat Lahir </label>
                     <input type="text" class="form-control border rounded" id="isiTempatLahirPemberi" name="isiTempatLahirPemberi"
-                        placeholder=" Darussalam " required />
+                        placeholder=" Surabaya " required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="desa">Tanggal Lahir </label>
@@ -42,7 +42,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="telepon">No Telepon </label>
                     <input type="text" class="form-control border rounded" id="isiNoTeleponPemberi" name="isiNoTeleponPemberi"
-                        placeholder=" 082398231212 " required />
+                        placeholder=" 081234636677 " required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="kelamin">Jenis Kelamin </label>
@@ -57,7 +57,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="desa">No. KTP </label>
                     <input type="number" class="form-control border rounded" id="isiNoKtpPemberi" name="isiNoKtpPemberi"
-                        placeholder="1117291321321" required />
+                        placeholder="Contoh: 1117291321321" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="alamat">Alamat </label>
@@ -69,13 +69,13 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="nama">Nama Penerima</label>
                     <input type="text" class="form-control border rounded" id="isiNamaPenerima" name="isiNamaPenerima"
-                        placeholder="Muzails" required />
+                        placeholder="Wiraynto" required />
                 </div>
 
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tempat">Tempat Lahir</label>
                     <input type="text" class="form-control border rounded" id="isiTempatLahirPenerima"
-                        name="isiTempatLahirPenerima" placeholder="Takengon" required />
+                        name="isiTempatLahirPenerima" placeholder="Pandaan" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">Tanggal Lahir</label>
@@ -87,7 +87,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">No. Telepon</label>
                     <input type="number" class="form-control border rounded" id="isiNoTeleponPenerima" name="isiNoTeleponPenerima"
-                        placeholder="082248324" required />
+                        placeholder="081234637777" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="kelamin">Jenis Kelamin </label>
@@ -101,7 +101,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="desa">No. KTP </label>
                     <input type="number" class="form-control border rounded" id="isiNoKtpPenerima" name="isiNoKtpPenerima"
-                        placeholder="1117291321321" required />
+                        placeholder="Contoh: 117291321321" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="alamat">Alamat </label>

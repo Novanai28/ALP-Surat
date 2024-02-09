@@ -11,7 +11,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tempatsuratdibuat">Tempat Surat Dibuat</label>
                     <input type="text" class="form-control border rounded" id="isiTempatBuatSurat" name="isiTempatBuatSurat"
-                        placeholder="Banda Aceh" required />
+                        placeholder="Surabaya" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tanggalsuratdibuat">Tanggal Surat Dibuat</label>
@@ -21,7 +21,7 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tempatsuratdibuat">Tujuan *</label>
                     <input type="text" class="form-control border rounded" id="isiTujuanInstansi" name="isiTujuanInstansi"
-                        placeholder="Bank Aceh" required />
+                        placeholder="Bank jatim" required />
                 </div>
             </div>
             <div class="container mt-4">
@@ -29,13 +29,13 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="nama">Nama Lengkap</label>
                     <input type="text" class="form-control border rounded" id="isiNama" name="isiNama"
-                        placeholder="Siuman Tringgadeng" required />
+                        placeholder="Luwis Wiryanto" required />
                 </div>
 
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="desa">Nomor Rekening </label>
                     <input type="number" class="form-control border rounded" id="isiNoRekening" name="isiNoRekening"
-                        placeholder=" 12134567890" required />
+                        placeholder=" Contoh: 12134567890" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="alamat">Alamat Lengkap </label>
@@ -52,13 +52,13 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="nama">Nama Pemilik Rekening</label>
                     <input type="text" class="form-control border rounded" id="isiNamaPemilikRekening" name="isiNamaPemilikRekening"
-                        placeholder="Muzails" required />
+                        placeholder=" " required />
                 </div>
 
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tempat">No. Rekening</label>
                     <input type="number" class="form-control border rounded" id="isiNoRekeningLaporkan" name="isiNoRekeningLaporkan"
-                        placeholder="12134354678909" required />
+                        placeholder="Contoh: 12134354678909" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">Alasan Pemblokiran</label>
@@ -71,12 +71,12 @@
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">Jumlah Transfer</label>
                     <input type="number" class="form-control border rounded" id="isiJumlahTransfer" name="isiJumlahTransfer"
-                        placeholder="Contoh: 5000000" required />
+                        placeholder="Contoh: 500.000" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">Melalui</label>
                     <input type="text" class="form-control border rounded" id="isiMelaluiInstansi" name="isiMelaluiInstansi"
-                        placeholder="Contoh: Bank Aceh" required />
+                        placeholder="Contoh: Bank BR1" required />
                 </div>
                 <div class="form-group mt-8 border rounded-md drop-shadow-sm">
                     <label for="tglOrtu">Waktu Transaksi</label>
